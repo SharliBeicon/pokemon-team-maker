@@ -1,0 +1,70 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    padding: 10px 0;
+    background-color: #78C8F8;
+}
+
+.navbar-nav {
+    padding: 0 7px;
+}
+.lead-pkmn {
+    font-style: italic;
+    padding: 0 60px;
+}
+
+.contain-pkmn {
+    max-width:1000px;
+    text-align:center;
+}
+
+.row-pkmn {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+    background:	#FFFFFF;
+}
+
+.row-pkmn-list {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.pkmn-stats {
+    
+    width: 100%;
+    margin: 0 auto;
+    background: #FFFFFF;
+    display: inline-block;
+    
+}
+
+.container-poke{
+    
+    width: 50%;
+    padding: 0;
+    background: #337AB7;
+    border: 1px solid #337AB7;
+    margin: 0 auto;
+    border-radius: 10px;
+    
+}
+
+.container-poke h1{
+    color: white;
+}
+
+
+body {
+    background-image: url(https://pokemon-putorojo.c9users.io/PokemonTeamMaker/img/pokeball.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #78C8F8;
+}
